@@ -20,3 +20,5 @@ def save_monster():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#gracias sebastian por ayudarme y no atrasarme
